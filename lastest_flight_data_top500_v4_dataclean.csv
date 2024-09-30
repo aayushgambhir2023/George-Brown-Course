@@ -1,0 +1,498 @@
+FL_DATE,AIRLINE,ORIGIN_CITY,DEST_CITY,CRS_DEP_TIME,DEP_TIME,DEP_DELAY,TAXI_OUT,WHEELS_OFF,WHEELS_ON,TAXI_IN,CRS_ARR_TIME,ARR_TIME,ARR_DELAY,CRS_ELAPSED_TIME,ELAPSED_TIME,AIR_TIME,DISTANCE,DELAY_DUE_CARRIER,DELAY_DUE_WEATHER,DELAY_DUE_NAS,DELAY_DUE_SECURITY,DELAY_DUE_LATE_AIRCRAFT,Delay_actual
+31/8/2023,Frontier Airlines Inc.,"Houston, TX","Phoenix, AZ",1654,1651,-3,14,1705,1717,9,1747,1726,-21,173,155,132,1009,0,0,0,0,0,0
+31/8/2023,Republic Airline,"New York, NY","Madison, WI",2050,2041,-9,25,2106,2159,3,2224,2202,-22,154,141,113,812,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Denver, CO","Austin, TX",1030,1029,-1,15,1044,1320,11,1335,1331,-4,125,122,96,775,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Charlotte, NC","Atlanta, GA",1040,1037,-3,12,1049,1132,6,1157,1138,-19,77,61,43,226,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Los Angeles, CA","Detroit, MI",2300,2303,3,20,2323,616,10,630,626,-4,270,263,233,1979,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"Minneapolis, MN","Sioux Falls, SD",1550,1548,-2,18,1606,1643,5,1653,1648,-5,63,60,37,196,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Memphis, TN","New York, NY",703,656,-7,11,707,1023,7,1055,1030,-25,172,154,136,963,0,0,0,0,0,0
+31/8/2023,Republic Airline,"New York, NY","Norfolk, VA",2110,2102,-8,17,2119,2209,5,2235,2214,-21,85,72,50,296,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Hartford, CT","Nashville, TN",1330,1329,-1,10,1339,1442,11,1455,1453,-2,145,144,123,852,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Santa Barbara, CA",1935,1930,-5,23,1953,2047,5,2103,2052,-11,208,202,174,1316,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Las Vegas, NV","Santa Ana, CA",1605,1601,-4,25,1626,1712,3,1710,1715,5,65,74,46,226,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Honolulu, HI","Chicago, IL",1715,1710,-5,32,1742,608,11,618,619,1,483,489,446,4243,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Seattle, WA","Juneau, AK",1900,1927,27,14,1941,2057,4,2035,2101,26,155,154,136,909,26,0,0,0,0,1
+31/8/2023,American Airlines Inc.,"Detroit, MI","Dallas/Fort Worth, TX",515,509,-6,16,525,634,12,710,646,-24,175,157,129,986,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Denver, CO","Birmingham, AL",1325,1326,1,14,1340,1650,3,1655,1653,-2,150,147,130,1083,0,0,0,0,0,0
+31/8/2023,Hawaiian Airlines Inc.,"Lihue, HI","Honolulu, HI",830,824,-6,7,831,853,8,906,901,-5,36,37,22,102,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Hilo, HI","Honolulu, HI",625,624,-1,9,633,710,4,725,714,-11,60,50,37,216,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Asheville, NC","Atlanta, GA",1606,1603,-3,13,1616,1653,8,1702,1701,-1,56,58,37,164,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Asheville, NC","Newark, NJ",1241,1236,-5,9,1245,1417,7,1459,1424,-35,138,108,92,583,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"San Jose, CA","Portland, OR",1005,1004,-1,11,1015,1147,2,1150,1149,-1,105,105,92,569,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"San Juan, PR","Newark, NJ",335,328,-7,12,340,707,11,741,718,-23,246,230,207,1608,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Tulsa, OK","Charlotte, NC",705,700,-5,13,713,1005,25,1030,1030,0,145,150,112,842,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Washington, DC","Atlanta, GA",1010,1010,0,19,1029,1150,9,1157,1159,2,107,109,81,547,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Kansas City, MO","New York, NY",1605,1716,71,9,1725,2046,6,1950,2052,62,165,156,141,1107,62,0,0,0,0,2
+31/8/2023,Republic Airline,"New York, NY","Oklahoma City, OK",1829,1824,-5,35,1859,2052,8,2109,2100,-9,220,216,173,1341,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Santa Rosa, CA","Los Angeles, CA",1530,1530,0,22,1552,1654,11,1708,1705,-3,98,95,62,400,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Fort Lauderdale, FL",2130,2200,30,13,2213,2348,2,2326,2350,24,116,110,95,632,13,0,0,0,11,1
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Tulsa, OK",2249,2252,3,13,2305,2336,3,2345,2339,-6,116,107,91,674,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"White Plains, NY","Chicago, IL",1630,1723,53,17,1740,1835,22,1802,1857,55,152,154,115,738,55,0,0,0,0,1
+31/8/2023,Republic Airline,"Raleigh/Durham, NC","New York, NY",645,640,-5,20,700,805,7,822,812,-10,97,92,65,431,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Raleigh/Durham, NC","San Juan, PR",855,850,-5,20,910,1216,14,1234,1230,-4,219,220,186,1433,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Las Vegas, NV","San Jose, CA",930,928,-2,16,944,1047,4,1055,1051,-4,85,83,63,386,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Fort Myers, FL","New York, NY",1920,1917,-3,22,1939,2154,18,2217,2212,-5,177,175,135,1074,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Boston, MA","Philadelphia, PA",649,718,29,13,731,828,27,824,855,31,95,97,57,280,29,0,2,0,0,1
+31/8/2023,Spirit Air Lines,"Fort Lauderdale, FL","Baltimore, MD",2120,2218,58,9,2227,24,30,2355,54,59,155,156,117,925,13,0,46,0,0,1
+31/8/2023,JetBlue Airways,"Los Angeles, CA","Salt Lake City, UT",615,612,-3,30,642,906,3,901,909,8,106,117,84,590,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Little Rock, AR","Denver, CO",1328,1320,-8,10,1330,1420,6,1456,1426,-30,148,126,110,771,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Albuquerque, NM","Phoenix, AZ",700,652,-8,10,702,655,4,731,659,-32,91,67,53,328,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Dallas/Fort Worth, TX","Baton Rouge, LA",839,838,-1,30,908,1006,4,1020,1010,-10,101,92,58,383,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"Atlanta, GA","Allentown/Bethlehem/Easton, PA",2112,2109,-3,18,2127,2259,3,2323,2302,-21,131,113,92,692,0,0,0,0,0,0
+31/8/2023,Hawaiian Airlines Inc.,"Lihue, HI","Honolulu, HI",700,656,-4,6,702,723,7,735,730,-5,35,34,21,102,0,0,0,0,0,0
+31/8/2023,Allegiant Air,"Las Vegas, NV","Minot, ND",1450,1439,-11,16,1455,1906,4,1934,1910,-24,164,151,131,1098,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Fort Lauderdale, FL","Atlanta, GA",917,922,5,11,933,1053,12,1114,1105,-9,117,103,80,581,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"San Francisco, CA","Minneapolis, MN",635,638,3,19,657,1155,6,1215,1201,-14,220,203,178,1589,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Newark, NJ","Detroit, MI",1629,1630,1,16,1646,1807,6,1833,1813,-20,124,103,81,488,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Houston, TX","San Antonio, TX",1755,1846,51,11,1857,1932,3,1850,1935,45,55,49,35,192,15,0,0,0,30,1
+31/8/2023,American Airlines Inc.,"Phoenix, AZ","Tucson, AZ",1710,1705,-5,13,1718,1747,5,1756,1752,-4,46,47,29,110,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Milwaukee, WI","New York, NY",945,940,-5,21,1001,1246,10,1258,1256,-2,133,136,105,745,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Chicago, IL","Los Angeles, CA",1000,959,-1,17,1016,1152,4,1210,1156,-14,250,237,216,1750,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Boston, MA","Cleveland, OH",1415,1408,-7,19,1427,1601,7,1624,1608,-16,129,120,94,563,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Los Angeles, CA",1640,1643,3,23,1706,1804,10,1804,1814,10,264,271,238,1947,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Los Angeles, CA","Austin, TX",555,549,-6,29,618,1053,3,1100,1056,-4,185,187,155,1242,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Dallas, TX","Atlanta, GA",2140,2231,51,9,2240,113,5,40,118,38,120,107,93,721,3,0,0,0,35,1
+31/8/2023,United Air Lines Inc.,"Seattle, WA","Washington, DC",813,807,-6,19,826,1546,16,1611,1602,-9,298,295,260,2306,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"San Francisco, CA","Pasco/Kennewick/Richland, WA",1825,1820,-5,15,1835,1957,4,2019,2001,-18,114,101,82,620,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"Pittsburgh, PA","Detroit, MI",1404,1359,-5,13,1412,1449,13,1513,1502,-11,69,63,37,201,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"San Francisco, CA","Denver, CO",2027,2102,35,33,2135,30,7,2359,37,38,152,155,115,967,0,0,3,0,35,1
+31/8/2023,SkyWest Airlines Inc.,"San Francisco, CA","Palm Springs, CA",1635,1628,-7,21,1649,1755,7,1805,1802,-3,90,94,66,421,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Fort Lauderdale, FL","San Juan, PR",1725,1717,-8,74,1831,2048,4,2000,2052,52,155,215,137,1046,0,0,52,0,0,1
+31/8/2023,Southwest Airlines Co.,"Houston, TX","St. Louis, MO",1855,1922,27,11,1933,2109,5,2055,2114,19,120,112,96,687,0,0,0,0,19,1
+31/8/2023,Delta Air Lines Inc.,"San Antonio, TX","Salt Lake City, UT",810,805,-5,11,816,944,5,1003,949,-14,173,164,148,1087,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Chicago, IL","Columbus, OH",835,831,-4,25,856,1043,5,1057,1048,-9,82,77,47,296,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"New York, NY","Kansas City, MO",1159,1154,-5,24,1218,1342,6,1416,1348,-28,197,174,144,1107,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Escanaba, MI","Detroit, MI",610,601,-9,12,613,702,9,729,711,-18,79,70,49,306,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Atlanta, GA","New York, NY",1308,1307,-1,10,1317,1457,6,1530,1503,-27,142,116,100,760,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Jacksonville, FL","Philadelphia, PA",735,731,-4,14,745,921,6,940,927,-13,125,116,96,742,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"Columbia, SC","New York, NY",1701,1657,-4,23,1720,1842,5,1857,1847,-10,116,110,82,617,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Tampa, FL","Newark, NJ",1435,1427,-8,19,1446,1650,8,1730,1658,-32,175,151,124,997,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Phoenix, AZ","Houston, TX",1609,1612,3,14,1626,2037,4,2050,2041,-9,161,149,131,1009,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Seattle, WA","Anchorage, AK",2003,1957,-6,16,2013,2238,32,2241,2310,29,218,253,205,1448,0,0,29,0,0,1
+31/8/2023,PSA Airlines Inc.,"Birmingham, AL","Charlotte, NC",1056,1046,-10,11,1057,1247,6,1331,1253,-38,95,67,50,350,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Austin, TX","Phoenix, AZ",1420,1421,1,11,1432,1424,5,1440,1429,-11,140,128,112,872,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Bend/Redmond, OR","Phoenix, AZ",758,746,-12,15,801,1000,12,1040,1012,-28,162,146,119,893,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Seattle, WA","Atlanta, GA",1615,1609,-6,19,1628,2336,7,2359,2343,-16,284,274,248,2182,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Orlando, FL","Charlotte, NC",1327,1320,-7,17,1337,1446,5,1515,1451,-24,108,91,69,468,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Oakland, CA","Palm Springs, CA",845,844,-1,15,859,1008,4,1015,1012,-3,90,88,69,418,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Orlando, FL","Manchester, NH",1305,1310,5,6,1316,1536,5,1555,1541,-14,170,151,140,1142,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"New York, NY","San Francisco, CA",2140,2144,4,16,2200,38,7,53,45,-8,373,361,338,2586,0,0,0,0,0,0
+31/8/2023,Allegiant Air,"Las Vegas, NV","Bozeman, MT",1854,1852,-2,26,1918,2149,4,2156,2153,-3,122,121,91,701,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"New York, NY","Boston, MA",1659,1800,61,20,1820,1854,5,1831,1859,28,92,59,34,187,28,0,0,0,0,1
+31/8/2023,Southwest Airlines Co.,"Phoenix, AZ","Milwaukee, WI",1955,2317,202,12,2329,421,8,115,429,194,200,192,172,1460,0,194,0,0,0,2
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Austin, TX",1352,1352,0,12,1404,1455,7,1509,1502,-7,137,130,111,813,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Cleveland, OH",1135,1126,-9,20,1146,1248,4,1311,1252,-19,96,86,62,430,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"San Juan, PR","Orlando, FL",258,416,78,14,430,654,11,603,705,62,185,169,144,1189,0,0,0,0,62,2
+31/8/2023,American Airlines Inc.,"Philadelphia, PA","Boston, MA",1830,1830,0,15,1845,1932,8,1958,1940,-18,88,70,47,280,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Dallas, TX","Houston, TX",1055,1053,-2,9,1102,1140,7,1205,1147,-18,70,54,38,216,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Charlotte, NC","Rochester, NY",931,929,-2,27,956,1112,5,1132,1117,-15,121,108,76,573,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Burbank, CA","Sacramento, CA",1655,1658,3,10,1708,1805,2,1810,1807,-3,75,69,57,358,0,0,0,0,0,0
+31/8/2023,Envoy Air,"St. Louis, MO","Boston, MA",1054,1044,-10,10,1054,1407,9,1436,1416,-20,162,152,133,1047,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Phoenix, AZ","San Antonio, TX",1850,1848,-2,10,1858,2246,3,2302,2249,-13,132,121,108,843,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Minneapolis, MN","Nashville, TN",2026,2019,-7,17,2036,2214,9,2230,2223,-7,124,124,98,695,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Indianapolis, IN","New York, NY",1510,1508,-2,17,1525,1705,10,1729,1715,-14,139,127,100,665,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Newark, NJ","Los Angeles, CA",1751,1800,9,26,1826,2033,7,2050,2040,-10,359,340,307,2454,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"Dallas/Fort Worth, TX","Baltimore, MD",840,841,1,30,911,1235,11,1247,1246,-1,187,185,144,1217,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Minneapolis, MN","San Diego, CA",1107,1059,-8,16,1115,1240,11,1258,1251,-7,231,232,205,1532,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"New York, NY","Wilmington, NC",2035,2031,-4,24,2055,2213,5,2239,2218,-21,124,107,78,500,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Kansas City, MO","Charlotte, NC",1112,1106,-6,13,1119,1405,11,1429,1416,-13,137,130,106,808,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Boston, MA","Orlando, FL",1259,1302,3,18,1320,1707,8,1616,1715,59,197,253,227,1121,0,0,59,0,0,1
+31/8/2023,PSA Airlines Inc.,"Huntsville, AL","Washington, DC",1000,952,-8,15,1007,1234,3,1259,1237,-22,119,105,87,613,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Washington, DC","Denver, CO",1445,1442,-3,13,1455,1602,8,1635,1610,-25,230,208,187,1452,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","Jackson, WY",1158,1206,8,14,1220,1322,3,1328,1325,-3,90,79,62,406,0,0,0,0,0,0
+31/8/2023,Allegiant Air,"Concord, NC","St. Petersburg, FL",1929,1923,-6,11,1934,2052,4,2109,2056,-13,100,93,78,528,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Alexandria, LA","Dallas/Fort Worth, TX",1041,1031,-10,13,1044,1134,22,1207,1156,-11,86,85,50,285,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Denver, CO","Tulsa, OK",1545,1618,33,13,1631,1840,4,1815,1844,29,90,86,69,541,6,0,0,0,23,1
+31/8/2023,SkyWest Airlines Inc.,"San Luis Obispo, CA","Los Angeles, CA",530,521,-9,15,536,614,12,644,626,-18,74,65,38,156,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Jackson, WY",910,904,-6,23,927,1048,3,1105,1051,-14,175,167,141,1047,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"San Diego, CA","Las Vegas, NV",1825,2004,99,30,2034,2122,5,1940,2127,107,75,83,48,258,0,0,49,0,58,2
+31/8/2023,United Air Lines Inc.,"Houston, TX","Washington, DC",1155,1149,-6,11,1200,1527,2,1559,1529,-30,184,160,147,1208,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"San Juan, PR","Charlotte Amalie, VI",1106,1203,57,23,1226,1244,6,1142,1250,68,36,47,18,68,3,0,11,0,54,2
+31/8/2023,JetBlue Airways,"Nantucket, MA","New York, NY",1747,1733,-14,19,1752,1836,8,1900,1844,-16,73,71,44,199,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"Las Vegas, NV","San Diego, CA",1057,1052,-5,45,1137,1233,19,1215,1252,37,78,120,56,258,0,0,37,0,0,1
+31/8/2023,Envoy Air,"Harlingen/San Benito, TX","Dallas/Fort Worth, TX",2001,2140,99,11,2151,2307,8,2142,2315,93,101,95,76,461,0,0,0,0,93,2
+31/8/2023,American Airlines Inc.,"San Jose, CA","Dallas/Fort Worth, TX",610,629,19,22,651,1148,8,1202,1156,-6,232,207,177,1438,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"New York, NY","Charlotte, NC",1338,1331,-7,25,1356,1519,9,1545,1528,-17,127,117,83,541,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Appleton, WI","Chicago, IL",1224,1222,-2,10,1232,1310,18,1339,1328,-11,75,66,38,160,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Dallas/Fort Worth, TX","South Bend, IN",1011,1002,-9,23,1025,1320,7,1348,1327,-21,157,145,115,846,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"Las Vegas, NV","Austin, TX",620,801,101,32,833,1247,8,1112,1255,103,172,174,134,1090,101,0,2,0,0,2
+31/8/2023,Republic Airline,"New York, NY","Boston, MA",958,953,-5,19,1012,1048,12,1129,1100,-29,91,67,36,187,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"New York, NY","Indianapolis, IN",1820,1828,8,31,1859,2037,7,2053,2044,-9,153,136,98,665,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Las Vegas, NV","Minneapolis, MN",926,926,0,16,942,1419,6,1438,1425,-13,192,179,157,1299,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Nashville, TN","Kansas City, MO",1435,1442,7,9,1451,1605,2,1615,1607,-8,100,85,74,491,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Martha's Vineyard, MA","New York, NY",1538,1528,-10,7,1535,1627,5,1659,1632,-27,81,64,52,175,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Detroit, MI","Saginaw/Bay City/Midland, MI",1632,1624,-8,13,1637,1700,5,1722,1705,-17,50,41,23,98,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"San Francisco, CA","Miami, FL",1301,1302,1,14,1316,2108,33,2146,2141,-5,345,339,292,2585,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Houston, TX","Seattle, WA",2010,2011,1,30,2041,2240,6,2252,2246,-6,282,275,239,1874,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Seattle, WA","San Diego, CA",745,852,67,13,905,1132,23,1035,1155,80,170,183,147,1050,67,0,13,0,0,2
+31/8/2023,Southwest Airlines Co.,"Dallas, TX","New Orleans, LA",1155,1239,44,9,1248,1350,3,1315,1353,38,80,74,62,436,16,0,0,0,22,1
+31/8/2023,American Airlines Inc.,"Asheville, NC","Charlotte, NC",1802,1751,-11,14,1805,1832,9,1909,1841,-28,67,50,27,91,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"New York, NY","Denver, CO",1400,1351,-9,26,1417,1549,8,1621,1557,-24,261,246,212,1620,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","El Paso, TX",1008,1004,-4,19,1023,1036,3,1057,1039,-18,109,95,73,551,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Detroit, MI",2049,2045,-4,14,2059,4,8,33,12,-21,164,147,125,986,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"White Plains, NY","Atlanta, GA",1029,1026,-3,12,1038,1235,8,1252,1243,-9,143,137,117,780,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Rochester, NY","New York, NY",805,757,-8,10,807,859,36,925,935,10,80,98,52,264,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Orlando, FL","White Plains, NY",1013,1009,-4,16,1025,1234,9,1300,1243,-17,167,154,129,972,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Phoenix, AZ",1147,1145,-2,21,1206,1244,7,1310,1251,-19,263,246,218,1773,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Detroit, MI","Salt Lake City, UT",1750,1749,-1,11,1800,1916,5,1937,1921,-16,227,212,196,1481,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Salt Lake City, UT","Bozeman, MT",1810,1808,-2,15,1823,1911,3,1928,1914,-14,78,66,48,347,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Houston, TX","Chicago, IL",1620,1619,-1,13,1632,1833,14,1906,1847,-19,166,148,121,925,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Hartford, CT","Myrtle Beach, SC",1245,1235,-10,16,1251,1433,5,1442,1438,-4,117,123,102,664,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Dallas, TX","Oakland, CA",2100,2103,3,10,2113,2228,5,2235,2233,-2,215,210,195,1468,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Lubbock, TX","Dallas, TX",550,544,-6,10,554,643,4,705,647,-18,75,63,49,293,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Boston, MA",1159,1152,-7,21,1213,1408,13,1440,1421,-19,161,149,115,946,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"New York, NY","Savannah, GA",845,838,-7,19,857,1041,5,1117,1046,-31,152,128,104,722,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Charlotte, NC",2048,2043,-5,15,2058,2356,5,29,1,-28,161,138,118,936,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Washington, DC","Boston, MA",1800,1948,108,22,2010,2108,7,1934,2115,101,94,87,58,399,0,0,0,0,101,2
+31/8/2023,United Air Lines Inc.,"Houston, TX","Austin, TX",2155,2200,5,14,2214,2241,3,2253,2244,-9,58,44,27,140,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Phoenix, AZ","Dallas, TX",520,520,0,14,534,927,4,940,931,-9,140,131,113,879,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Columbia, SC","Atlanta, GA",1431,1425,-6,10,1435,1517,10,1545,1527,-18,74,62,42,192,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Las Vegas, NV","Denver, CO",2230,2344,74,27,11,232,6,120,238,78,110,114,81,628,0,0,4,0,74,2
+31/8/2023,American Airlines Inc.,"Denver, CO","Charlotte, NC",1522,1519,-3,21,1540,2023,12,2042,2035,-7,200,196,163,1337,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Charleston, SC","Chicago, IL",1715,1705,-10,11,1716,1809,16,1846,1825,-21,151,140,113,760,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Boston, MA","Newark, NJ",1532,1524,-8,14,1538,1629,8,1703,1637,-26,91,73,51,200,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"San Jose, CA","Kona, HI",825,825,0,13,838,1036,3,1045,1039,-6,320,314,298,2384,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Washington, DC","Hartford, CT",2225,2217,-8,33,2250,2344,6,2351,2350,-1,86,93,54,313,0,0,0,0,0,0
+31/8/2023,Hawaiian Airlines Inc.,"Kona, HI","Honolulu, HI",1500,1454,-6,10,1504,1535,18,1550,1553,3,50,59,31,163,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Charlotte, NC","Boston, MA",1047,1044,-3,21,1105,1241,13,1309,1254,-15,142,130,96,728,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Fayetteville, AR","Charlotte, NC",1301,1558,177,11,1609,1851,17,1612,1908,176,131,130,102,754,0,0,0,0,176,2
+31/8/2023,Southwest Airlines Co.,"Santa Ana, CA","Las Vegas, NV",1850,2016,86,18,2034,2132,4,1955,2136,101,65,80,58,226,0,86,15,0,0,2
+31/8/2023,Spirit Air Lines,"Orlando, FL","Austin, TX",1039,1115,36,9,1124,1234,6,1224,1240,16,165,145,130,994,10,0,6,0,0,1
+31/8/2023,Southwest Airlines Co.,"Los Angeles, CA","Dallas, TX",1120,1140,20,11,1151,1629,4,1625,1633,8,185,173,158,1246,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Boston, MA","Charlotte, NC",1850,1930,40,18,1948,2143,17,2119,2200,41,149,150,115,728,40,0,1,0,0,1
+31/8/2023,Southwest Airlines Co.,"Salt Lake City, UT","Denver, CO",1625,1637,12,13,1650,1755,9,1750,1804,14,85,87,65,391,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Seattle, WA","Pittsburgh, PA",2250,2248,-2,13,2301,600,6,625,606,-19,275,258,239,2125,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"Orlando, FL","Philadelphia, PA",2058,2046,-12,26,2112,2301,7,2334,2308,-26,156,142,109,861,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Washington, DC","New York, NY",1359,1410,11,21,1431,1512,6,1517,1518,1,78,68,41,214,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"San Francisco, CA","Santa Ana, CA",1600,1611,11,18,1629,1738,5,1733,1743,10,93,92,69,372,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Washington, DC","West Palm Beach/Palm Beach, FL",1810,1757,-13,11,1808,2010,4,2038,2014,-24,148,137,122,857,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Jamestown, ND","Denver, CO",1311,1301,-10,10,1311,1339,7,1404,1346,-18,113,105,88,573,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Oklahoma City, OK",2249,2245,-4,13,2258,2336,6,2358,2342,-16,69,57,38,175,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Boston, MA",1459,1602,63,11,1613,1747,15,1711,1802,51,132,120,94,728,5,0,0,0,46,1
+31/8/2023,Southwest Airlines Co.,"San Jose, CA","Phoenix, AZ",2225,10,105,13,23,149,4,15,153,98,110,103,86,621,0,0,98,0,0,2
+31/8/2023,American Airlines Inc.,"Washington, DC","Sarasota/Bradenton, FL",827,849,22,30,919,1118,6,1111,1124,13,164,155,119,851,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Baltimore, MD",2028,2026,-2,18,2044,2139,9,2150,2148,-2,82,82,55,361,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Phoenix, AZ","Atlanta, GA",1646,1642,-4,10,1652,2303,8,2335,2311,-24,229,209,191,1587,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Houston, TX","Portland, OR",930,925,-5,15,940,1141,4,1147,1145,-2,257,260,241,1825,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"San Diego, CA","Los Angeles, CA",616,611,-5,30,641,707,12,726,719,-7,70,68,26,109,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Dallas/Fort Worth, TX","Houston, TX",515,508,-7,13,521,559,10,626,609,-17,71,61,38,224,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Cleveland, OH","Atlanta, GA",1151,1148,-3,15,1203,1323,6,1343,1329,-14,112,101,80,554,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Miami, FL","Detroit, MI",1227,1316,49,29,1345,1605,10,1525,1615,50,178,179,140,1145,49,0,1,0,0,1
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","Raleigh/Durham, NC",1525,1553,28,12,1605,1651,5,1630,1656,26,65,63,46,255,10,0,0,0,16,1
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Los Angeles, CA",1200,1200,0,10,1210,1305,15,1330,1320,-10,270,260,235,1947,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Kansas City, MO","Phoenix, AZ",1320,1331,11,8,1339,1354,4,1400,1358,-2,160,147,135,1044,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"New York, NY","Seattle, WA",645,643,-2,21,704,927,12,1001,939,-22,376,356,323,2422,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Las Vegas, NV","Reno, NV",940,942,2,12,954,1051,6,1105,1057,-8,85,75,57,345,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Bend/Redmond, OR","Los Angeles, CA",1955,1924,-31,21,1945,2130,40,2205,2210,5,130,166,105,726,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Las Vegas, NV","Houston, TX",1240,1300,20,17,1317,1750,17,1746,1807,21,186,187,153,1222,7,0,1,0,13,1
+31/8/2023,Spirit Air Lines,"Las Vegas, NV","San Jose, CA",830,824,-6,13,837,942,4,1001,946,-15,91,82,65,386,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Sacramento, CA","Salt Lake City, UT",1005,1004,-1,9,1013,1223,5,1240,1228,-12,95,84,70,532,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Boston, MA","San Francisco, CA",1830,1830,0,25,1855,2147,10,2216,2157,-19,406,387,352,2704,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Minneapolis, MN","Las Vegas, NV",2230,2247,17,11,2258,2353,54,2350,47,57,200,240,175,1299,0,0,40,0,17,1
+31/8/2023,JetBlue Airways,"Los Angeles, CA","New York, NY",1207,1159,-8,12,1211,2009,12,2049,2021,-28,342,322,298,2475,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Asheville, NC",1635,1631,-4,18,1649,1709,4,1722,1713,-9,47,42,20,91,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Lafayette, LA","Dallas/Fort Worth, TX",1959,2035,36,25,2100,2157,11,2139,2208,29,100,93,57,351,29,0,0,0,0,1
+31/8/2023,Spirit Air Lines,"New York, NY","Miami, FL",1159,1205,6,20,1225,1452,12,1517,1504,-13,198,179,147,1096,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Albuquerque, NM","Las Vegas, NV",605,604,-1,12,616,622,6,635,628,-7,90,84,66,486,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Fresno, CA",1745,1915,90,27,1942,2038,6,1908,2044,96,203,209,176,1313,8,0,6,0,82,2
+31/8/2023,United Air Lines Inc.,"Cleveland, OH","San Francisco, CA",740,737,-3,14,751,933,5,949,938,-11,309,301,282,2161,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Oakland, CA","San Diego, CA",1640,1637,-3,12,1649,1802,9,1809,1811,2,89,94,73,446,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Newark, NJ","Denver, CO",1717,1712,-5,26,1738,1912,9,1938,1921,-17,261,249,214,1605,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Las Vegas, NV","San Francisco, CA",920,914,-6,26,940,1052,7,1051,1059,8,91,105,72,414,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Denver, CO","North Platte, NE",1625,1620,-5,28,1648,1824,6,1829,1830,1,64,70,36,228,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","Phoenix, AZ",1920,1920,0,18,1938,2000,3,2015,2003,-12,115,103,82,602,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Washington, DC","Los Angeles, CA",844,842,-2,19,901,1035,13,1110,1048,-22,326,306,274,2288,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Atlanta, GA","Augusta, GA",1134,1133,-1,16,1149,1218,4,1231,1222,-9,57,49,29,143,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Fort Myers, FL",2045,2048,3,10,2058,2214,4,2231,2218,-13,106,90,76,515,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Knoxville, TN","Chicago, IL",1400,1359,-1,13,1412,1429,18,1452,1447,-5,112,108,77,475,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Orlando, FL",810,805,-5,15,820,930,9,951,939,-12,101,94,70,468,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Las Vegas, NV","San Francisco, CA",1735,1803,28,31,1834,1939,5,1905,1944,39,90,101,65,414,28,0,11,0,0,1
+31/8/2023,American Airlines Inc.,"Chicago, IL","San Diego, CA",2028,2028,0,27,2055,2226,6,2243,2232,-11,255,244,211,1723,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"San Francisco, CA","Redding, CA",1851,1913,22,18,1931,2013,4,1949,2017,28,58,64,42,199,28,0,0,0,0,1
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Hartford, CT",1911,2024,73,13,2037,31,7,2354,38,44,223,194,174,1471,44,0,0,0,0,1
+31/8/2023,Delta Air Lines Inc.,"New York, NY","Miami, FL",1100,1103,3,50,1153,1434,7,1411,1441,30,191,218,161,1089,0,0,30,0,0,1
+31/8/2023,Delta Air Lines Inc.,"Fort Lauderdale, FL","New York, NY",1129,1127,-2,14,1141,1359,26,1443,1425,-18,194,178,138,1076,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"New York, NY","Raleigh/Durham, NC",1703,1658,-5,17,1715,1825,10,1913,1835,-38,130,97,70,427,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Columbus, OH","Newark, NJ",1537,1526,-11,15,1541,1656,6,1735,1702,-33,118,96,75,463,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"New York, NY","San Diego, CA",2055,2050,-5,14,2104,2308,7,2347,2315,-32,352,325,304,2446,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Ontario, CA","Phoenix, AZ",1209,1207,-2,10,1217,1313,10,1329,1323,-6,80,76,56,325,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Gulfport/Biloxi, MS","Atlanta, GA",600,558,-2,13,611,802,11,820,813,-7,80,75,51,352,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Omaha, NE","Chicago, IL",620,620,0,9,629,731,4,745,735,-10,85,75,62,423,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Portland, OR","Boston, MA",2355,2348,-7,22,10,757,13,821,810,-11,326,322,287,2537,0,0,0,0,0,0
+31/8/2023,Hawaiian Airlines Inc.,"Kahului, HI","Honolulu, HI",1948,1933,-15,9,1942,2008,6,2027,2014,-13,39,41,26,100,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Houston, TX","Atlanta, GA",740,756,16,8,804,1032,6,1040,1038,-2,120,102,88,696,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Newark, NJ","Orlando, FL",1155,1205,10,16,1221,1436,10,1445,1446,1,170,161,135,937,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Fresno, CA","San Francisco, CA",1800,1748,-12,10,1758,1834,5,1857,1839,-18,57,51,36,158,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Fayetteville, AR",1404,1359,-5,11,1410,1433,5,1455,1438,-17,111,99,83,589,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Chicago, IL","Austin, TX",2040,2039,-1,20,2059,2313,5,2331,2318,-13,171,159,134,977,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Columbus, OH","Denver, CO",905,903,-2,16,919,958,8,1017,1006,-11,192,183,159,1154,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Providence, RI","Washington, DC",857,845,-12,10,855,1001,28,1033,1029,-4,96,104,66,356,0,0,0,0,0,0
+31/8/2023,Allegiant Air,"St. Petersburg, FL","Flint, MI",1134,1136,2,11,1147,1355,7,1417,1402,-15,163,146,128,1040,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","Houston, TX",1130,1123,-7,17,1140,1425,6,1456,1431,-25,146,128,105,862,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"New York, NY","Austin, TX",1459,1455,-4,12,1507,1720,6,1814,1726,-48,255,211,193,1521,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Tucson, AZ","Dallas/Fort Worth, TX",1532,1523,-9,14,1537,1926,8,1958,1934,-24,146,131,109,813,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","Anchorage, AK",1902,1919,17,32,1951,2320,5,2236,2325,49,334,366,329,2405,14,0,32,0,3,1
+31/8/2023,Southwest Airlines Co.,"Atlanta, GA","Indianapolis, IN",1940,2017,37,16,2033,2135,4,2110,2139,29,90,82,62,432,9,0,0,0,20,1
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","Cleveland, OH",1430,1550,80,17,1607,1702,7,1545,1709,84,75,79,55,314,80,0,4,0,0,2
+31/8/2023,JetBlue Airways,"Los Angeles, CA","New York, NY",1620,1609,-11,19,1628,25,10,49,35,-14,329,326,297,2475,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Phoenix, AZ","Bend/Redmond, OR",2035,2025,-10,105,2210,9,4,2307,13,66,152,228,119,893,66,0,0,0,0,2
+31/8/2023,United Air Lines Inc.,"Chicago, IL","Boston, MA",2126,2121,-5,17,2138,26,10,59,36,-23,153,135,108,867,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Cleveland, OH",2057,2056,-1,28,2124,29,5,44,34,-10,167,158,125,1021,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Aspen, CO","Denver, CO",1812,1758,-14,14,1812,1845,21,1922,1906,-16,70,68,33,125,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Miami, FL","Christiansted, VI",1014,1009,-5,29,1038,1300,2,1311,1302,-9,177,173,142,1139,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Salt Lake City, UT","Los Angeles, CA",1959,1957,-2,14,2011,2041,17,2050,2058,8,111,121,90,590,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Richmond, VA",710,715,5,16,731,816,4,822,820,-2,72,65,45,257,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Atlanta, GA","Newark, NJ",1806,1934,88,14,1948,2121,10,2020,2131,71,134,117,93,746,24,0,1,0,46,2
+31/8/2023,Delta Air Lines Inc.,"Seattle, WA","Spokane, WA",2259,2314,15,11,2325,5,5,3,10,7,64,56,40,224,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Chicago, IL","Nashville, TN",1555,1558,3,15,1613,1714,9,1726,1723,-3,91,85,61,409,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"Minneapolis, MN","Cincinnati, OH",1825,1815,-10,19,1834,2057,5,2116,2102,-14,111,107,83,596,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"Cleveland, OH","Las Vegas, NV",1544,1555,11,13,1608,1701,9,1716,1710,-6,272,255,233,1824,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Portland, OR","San Diego, CA",2130,2215,45,17,2232,41,4,2359,45,46,149,150,129,933,0,0,1,0,45,1
+31/8/2023,Delta Air Lines Inc.,"Fort Myers, FL","Detroit, MI",1804,1751,-13,11,1802,2024,13,2058,2037,-21,174,166,142,1084,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Minneapolis, MN","Detroit, MI",851,840,-11,13,853,1107,10,1134,1117,-17,103,97,74,528,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Boston, MA","Washington, DC",545,535,-10,19,554,707,4,727,711,-16,102,96,73,413,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Daytona Beach, FL",926,923,-3,10,933,1026,3,1047,1029,-18,81,66,53,366,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Sacramento, CA","Las Vegas, NV",905,906,1,10,916,1021,7,1030,1028,-2,85,82,65,397,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Newark, NJ","St. Louis, MO",1402,1356,-6,27,1423,1523,5,1535,1528,-7,153,152,120,872,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Denver, CO",833,829,-4,27,856,932,6,945,938,-7,192,189,156,1199,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Minneapolis, MN","Rhinelander, WI",2125,2121,-4,9,2130,2200,3,2222,2203,-19,57,42,30,190,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Denver, CO","Helena, MT",1124,1123,-1,19,1142,1311,4,1321,1315,-6,117,112,89,594,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","Syracuse, NY",1749,1944,115,27,2011,103,6,2310,109,119,201,205,172,1492,0,0,79,0,40,2
+31/8/2023,American Airlines Inc.,"New York, NY","Raleigh/Durham, NC",1629,1652,23,19,1711,1818,4,1813,1822,9,104,90,67,431,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Newark, NJ","San Juan, PR",946,944,-2,22,1006,1331,4,1341,1335,-6,235,231,205,1608,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"San Jose, CA","Burbank, CA",2045,2040,-5,13,2053,2138,3,2150,2141,-9,65,61,45,296,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Los Angeles, CA","Honolulu, HI",825,825,0,12,837,1058,3,1110,1101,-9,345,336,321,2556,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"Wilmington, NC","New York, NY",1923,1922,-1,14,1936,2048,6,2109,2054,-15,106,92,72,500,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Richmond, VA","Boston, MA",611,602,-9,14,616,724,14,759,738,-21,108,96,68,474,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Hartford, CT","West Palm Beach/Palm Beach, FL",1115,1106,-9,10,1116,1407,3,1423,1410,-13,188,184,171,1133,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Orlando, FL","Kansas City, MO",1932,2057,85,23,2120,2240,7,2125,2247,82,173,170,140,1072,0,5,77,0,0,2
+31/8/2023,Southwest Airlines Co.,"Denver, CO","Oakland, CA",1015,1011,-4,11,1022,1132,6,1150,1138,-12,155,147,130,957,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Panama City, FL",1556,1556,0,16,1612,1552,3,1603,1555,-8,67,59,40,240,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Salt Lake City, UT","Portland, OR",1131,1132,1,14,1146,1212,2,1224,1214,-10,113,102,86,630,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Burbank, CA","Seattle, WA",1605,1616,11,27,1643,1849,14,1845,1903,18,160,167,126,937,0,0,7,0,11,1
+31/8/2023,Hawaiian Airlines Inc.,"Honolulu, HI","Lihue, HI",1915,1913,-2,14,1927,1948,5,1954,1953,-1,39,40,21,102,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Juneau, AK","Seattle, WA",520,518,-2,13,531,822,12,845,834,-11,145,136,111,909,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"New York, NY","Dallas/Fort Worth, TX",1230,1227,-3,24,1251,1442,10,1525,1452,-33,235,205,171,1389,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"White Plains, NY","Charlotte, NC",630,905,155,17,922,1049,15,828,1104,156,118,119,87,564,155,0,1,0,0,2
+31/8/2023,Delta Air Lines Inc.,"Phoenix, AZ","Detroit, MI",2259,126,147,26,152,811,8,550,819,149,231,233,199,1671,0,10,2,0,137,2
+31/8/2023,Delta Air Lines Inc.,"Pittsburgh, PA","Atlanta, GA",1839,1926,47,14,1940,2057,10,2022,2107,45,103,101,77,526,5,0,0,0,40,1
+31/8/2023,Spirit Air Lines,"Los Angeles, CA","Detroit, MI",1140,1133,-7,11,1144,1833,9,1905,1842,-23,265,249,229,1979,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Greer, SC",1626,1642,16,18,1700,1722,4,1711,1726,15,45,44,22,75,6,0,0,0,9,1
+31/8/2023,Alaska Airlines Inc.,"Seattle, WA","Denver, CO",2020,2025,5,19,2044,2352,5,2357,2357,0,157,152,128,1024,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Denver, CO","Minneapolis, MN",610,702,52,15,717,944,4,908,948,40,118,106,87,680,40,0,0,0,0,1
+31/8/2023,Delta Air Lines Inc.,"Salt Lake City, UT","San Diego, CA",800,812,12,15,827,903,12,855,915,20,115,123,96,626,0,0,20,0,0,1
+31/8/2023,Republic Airline,"Harrisburg, PA","Newark, NJ",1459,1455,-4,10,1505,1547,9,1610,1556,-14,71,61,42,141,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"San Diego, CA","Cleveland, OH",1031,1220,109,21,1241,1934,9,1801,1943,102,270,263,233,2026,93,0,0,0,9,2
+31/8/2023,Southwest Airlines Co.,"Los Angeles, CA","Dallas, TX",1745,1819,34,28,1847,2329,8,2245,2337,52,180,198,162,1246,7,0,18,0,27,1
+31/8/2023,Southwest Airlines Co.,"Las Vegas, NV","New Orleans, LA",845,854,9,21,915,1412,3,1410,1415,5,205,201,177,1500,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Hattiesburg/Laurel, MS","Houston, TX",1140,1133,-7,8,1141,1246,11,1315,1257,-18,95,84,65,372,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"San Francisco, CA","Houston, TX",741,734,-7,18,752,1321,6,1340,1327,-13,239,233,209,1635,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Denver, CO","Kansas City, MO",1225,1225,0,10,1235,1444,3,1500,1447,-13,95,82,69,533,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Phoenix, AZ","San Diego, CA",1510,1535,25,9,1544,1629,2,1620,1631,11,70,56,45,304,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Chicago, IL","Washington, DC",910,903,-7,37,940,1206,5,1213,1211,-2,123,128,86,612,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Syracuse, NY",2225,2233,8,12,2245,26,7,38,33,-5,133,120,101,794,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Washington, DC","Raleigh/Durham, NC",2228,2231,3,19,2250,2337,6,2335,2343,8,67,72,47,224,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"Orlando, FL","Boston, MA",540,530,-10,17,547,804,10,840,814,-26,180,164,137,1121,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Chicago, IL","Atlanta, GA",930,933,3,19,952,1215,7,1224,1222,-2,114,109,83,606,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Kalispell, MT",1134,1135,1,14,1149,1355,13,1412,1408,-4,218,213,186,1390,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","Baltimore, MD",2359,2354,-5,16,10,508,6,532,514,-18,213,200,178,1491,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"Ontario, CA","Las Vegas, NV",1924,2035,71,39,2114,2154,8,2035,2202,87,71,87,40,197,0,0,87,0,0,2
+31/8/2023,JetBlue Airways,"Orlando, FL","Newark, NJ",2150,2226,36,16,2242,41,10,30,51,21,160,145,119,937,9,0,0,0,12,1
+31/8/2023,Delta Air Lines Inc.,"Washington, DC","Atlanta, GA",600,604,4,13,617,741,5,745,746,1,105,102,84,534,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Anchorage, AK","Juneau, AK",1940,1946,6,12,1958,2109,5,2118,2114,-4,98,88,71,571,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Burbank, CA","Oakland, CA",1815,1811,-4,9,1820,1909,5,1930,1914,-16,75,63,49,325,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Cleveland, OH","Denver, CO",1631,1625,-6,14,1639,1723,6,1750,1729,-21,199,184,164,1201,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"New York, NY","Fort Lauderdale, FL",705,700,-5,23,723,1001,11,1019,1012,-7,194,192,158,1076,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Raleigh/Durham, NC","Miami, FL",1634,1626,-8,25,1651,1907,15,1843,1922,39,129,176,136,700,0,0,39,0,0,1
+31/8/2023,American Airlines Inc.,"Chicago, IL","Kalispell, MT",1000,957,-3,18,1015,1232,5,1240,1237,-3,220,220,197,1352,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","Baltimore, MD",1753,1747,-6,24,1811,2308,5,2322,2313,-9,209,206,177,1491,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Charlotte, NC","Charleston/Dunbar, WV",2244,2236,-8,18,2254,2332,3,2359,2335,-24,75,59,38,221,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Detroit, MI","Nashville, TN",2045,2039,-6,12,2051,2059,8,2120,2107,-13,95,88,68,456,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Charlotte, NC","Fayetteville, NC",1111,1108,-3,23,1131,1157,4,1211,1201,-10,60,53,26,118,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Washington, DC","Hartford, CT",1801,1752,-9,23,1815,1909,7,1927,1916,-11,86,84,54,313,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Albuquerque, NM","Burbank, CA",1145,1145,0,11,1156,1233,1,1235,1234,-1,110,109,97,672,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"Atlanta, GA","Philadelphia, PA",1538,1538,0,21,1559,1724,8,1747,1732,-15,129,114,85,666,0,0,0,0,0,0
+31/8/2023,Frontier Airlines Inc.,"Philadelphia, PA","Denver, CO",1922,1915,-7,32,1947,2119,14,2151,2133,-18,269,258,212,1558,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Asheville, NC","New York, NY",1410,1404,-6,16,1420,1544,26,1606,1610,4,116,126,84,599,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Seattle, WA","Burbank, CA",655,646,-9,15,701,910,3,928,913,-15,153,147,129,937,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Charlotte, NC","Omaha, NE",2225,2235,10,13,2248,2359,4,2358,3,5,153,148,131,913,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Indianapolis, IN",1231,1253,22,17,1310,1549,5,1553,1554,1,142,121,99,761,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Santa Ana, CA","San Jose, CA",1550,1552,2,9,1601,1654,2,1700,1656,-4,70,64,53,342,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Los Angeles, CA","Prescott, AZ",1930,1921,-9,16,1937,2035,3,2052,2038,-14,82,77,58,346,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Orlando, FL","Nashville, TN",700,657,-3,27,724,748,9,800,757,-3,120,120,84,616,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Providence, RI","Detroit, MI",1711,1703,-8,14,1717,1851,10,1912,1901,-11,121,118,94,615,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Ketchikan, AK","Juneau, AK",2028,2022,-6,8,2030,2116,4,2127,2120,-7,59,58,46,234,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Charlotte, NC","Greer, SC",1126,1131,5,21,1152,1217,4,1224,1221,-3,58,50,25,75,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Omaha, NE","Atlanta, GA",1650,1655,5,17,1712,1954,13,1955,2007,12,125,132,102,821,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Miami, FL","New York, NY",1948,2033,45,33,2106,2317,10,2300,2327,27,192,174,131,1089,0,0,0,27,0,1
+31/8/2023,United Air Lines Inc.,"Denver, CO","Louisville, KY",1741,1733,-8,21,1754,2159,7,2215,2206,-9,154,153,125,1024,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Houston, TX","Omaha, NE",850,850,0,16,906,1050,3,1055,1053,-2,125,123,104,804,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Santa Ana, CA","Las Vegas, NV",1745,1747,2,25,1812,1938,5,1855,1943,48,70,116,86,226,0,0,48,0,0,1
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Newark, NJ",1426,1425,-1,11,1436,1842,12,1904,1854,-10,218,209,186,1372,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"San Diego, CA","Oakland, CA",2015,2011,-4,19,2030,2133,6,2140,2139,-1,85,88,63,446,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Los Angeles, CA","Phoenix, AZ",2155,2321,86,11,2332,33,6,2320,39,79,85,78,61,370,0,76,0,0,3,2
+31/8/2023,Envoy Air,"Phoenix, AZ","Fayetteville, AR",1615,1611,-4,18,1629,2050,6,2055,2056,1,160,165,141,1023,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Palm Springs, CA","San Francisco, CA",1558,1551,-7,17,1608,1725,3,1738,1728,-10,100,97,77,421,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Asheville, NC",2024,2016,-8,10,2026,2058,3,2123,2101,-22,59,45,32,164,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Philadelphia, PA","Detroit, MI",2102,2057,-5,30,2127,2242,5,2252,2247,-5,110,110,75,453,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","Houston, TX",1810,1842,32,18,1900,2106,4,2025,2110,45,195,208,186,1246,0,0,13,0,32,1
+31/8/2023,JetBlue Airways,"Portland, OR","Boston, MA",1230,1229,-1,16,1245,2032,15,2058,2047,-11,328,318,287,2537,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","Pittsburgh, PA",1019,1103,44,16,1119,1547,5,1525,1552,27,186,169,148,1290,27,0,0,0,0,1
+31/8/2023,United Air Lines Inc.,"Indianapolis, IN","Denver, CO",1538,1529,-9,16,1545,1559,6,1624,1605,-19,166,156,134,977,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Tampa, FL","Atlanta, GA",1227,1223,-4,18,1241,1341,10,1401,1351,-10,94,88,60,406,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Charlotte, NC","Boston, MA",2220,2304,44,23,2327,100,10,33,110,37,133,126,93,728,0,0,0,0,37,1
+31/8/2023,Envoy Air,"Des Moines, IA","Chicago, IL",530,524,-6,18,542,634,7,654,641,-13,84,77,52,299,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Miami, FL","Pensacola, FL",1733,1734,1,37,1811,1829,4,1822,1833,11,109,119,78,530,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Washington, DC","Chicago, IL",1757,1800,3,24,1824,1854,17,1909,1911,2,132,131,90,612,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Austin, TX","Orlando, FL",1814,1805,-9,12,1817,2125,13,2200,2138,-22,166,153,128,994,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Corpus Christi, TX","Dallas/Fort Worth, TX",1217,1225,8,10,1235,1337,8,1349,1345,-4,92,80,62,354,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Las Vegas, NV","Denver, CO",1842,1835,-7,34,1909,2131,8,2145,2139,-6,123,124,82,628,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Tucson, AZ","Seattle, WA",1200,1153,-7,20,1213,1447,19,1514,1506,-8,194,193,154,1216,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Denver, CO","Charlotte, NC",1400,1352,-8,13,1405,1844,20,1920,1904,-16,200,192,159,1337,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Memphis, TN","Chicago, IL",1117,1122,5,30,1152,1310,13,1315,1323,8,118,121,78,491,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Houston, TX","New Orleans, LA",1950,1947,-3,8,1955,2039,3,2055,2042,-13,65,55,44,302,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Springfield, MO",1005,1003,-2,14,1017,1036,5,1055,1041,-14,110,98,79,563,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","Houston, TX",1735,1730,-5,12,1742,2032,5,2050,2037,-13,135,127,110,862,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Newark, NJ","Minneapolis, MN",1835,1828,-7,13,1841,2002,3,2045,2005,-40,190,157,141,1008,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Fort Lauderdale, FL","Atlanta, GA",630,624,-6,17,641,800,10,820,810,-10,110,106,79,581,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"St. Louis, MO","Las Vegas, NV",2125,2130,5,12,2142,2256,22,2250,2318,28,205,228,194,1371,0,0,28,0,0,1
+31/8/2023,American Airlines Inc.,"Norfolk, VA","Dallas/Fort Worth, TX",1545,1539,-6,11,1550,1730,12,1802,1742,-20,197,183,160,1212,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Sarasota/Bradenton, FL","Atlanta, GA",726,723,-3,11,734,838,11,905,849,-16,99,86,64,444,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"St. Louis, MO","Kansas City, MO",1155,1148,-7,11,1159,1239,5,1255,1244,-11,60,56,40,237,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Charlotte, NC","Pensacola, FL",1120,1118,-2,26,1144,1201,4,1209,1205,-4,109,107,77,488,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Washington, DC","Burlington, VT",1009,1136,87,19,1155,1304,3,1205,1307,62,116,91,69,437,62,0,0,0,0,2
+31/8/2023,PSA Airlines Inc.,"Greer, SC","Charlotte, NC",1119,1119,0,11,1130,1154,13,1222,1207,-15,63,48,24,75,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Miami, FL","Chicago, IL",1233,1226,-7,12,1238,1415,17,1455,1432,-23,202,186,157,1197,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Atlanta, GA","Orlando, FL",2200,2227,27,13,2240,2338,6,2325,2344,19,85,77,58,404,10,0,0,0,9,1
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Washington, DC",912,920,8,11,931,1044,5,1100,1049,-11,108,89,73,547,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Washington, DC","Houston, TX",1940,1938,-2,10,1948,2126,10,2153,2136,-17,193,178,158,1208,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Oklahoma City, OK","Denver, CO",640,645,5,10,655,710,5,720,715,-5,100,90,75,495,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Orlando, FL","New Orleans, LA",1435,1428,-7,11,1439,1455,4,1515,1459,-16,100,91,76,551,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Milwaukee, WI","Boston, MA",1028,1105,37,23,1128,1420,12,1348,1432,44,140,147,112,860,37,0,7,0,0,1
+31/8/2023,Delta Air Lines Inc.,"Houston, TX","Atlanta, GA",1912,1916,4,12,1928,2152,8,2220,2200,-20,128,104,84,696,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Denver, CO","San Jose, CA",810,805,-5,15,820,926,3,948,929,-19,158,144,126,948,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Valparaiso, FL","Washington, DC",1100,1050,-10,10,1100,1348,3,1414,1351,-23,134,121,108,789,0,0,0,0,0,0
+31/8/2023,Hawaiian Airlines Inc.,"Kahului, HI","Honolulu, HI",2015,2007,-8,6,2013,2039,6,2054,2045,-9,39,38,26,100,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Cincinnati, OH","Detroit, MI",605,601,-4,17,618,657,11,716,708,-8,71,67,39,229,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"New Orleans, LA","Chicago, IL",1622,1612,-10,14,1626,1814,10,1855,1824,-31,153,132,108,837,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Washington, DC","Tampa, FL",630,623,-7,15,638,834,4,858,838,-20,148,135,116,814,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Seattle, WA","Spokane, WA",1959,1954,-5,15,2009,2051,4,2106,2055,-11,67,61,42,224,0,0,0,0,0,0
+31/8/2023,Hawaiian Airlines Inc.,"Lihue, HI","Kahului, HI",1214,1229,15,9,1238,1311,7,1305,1318,13,51,49,33,201,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Long Beach, CA","Salt Lake City, UT",1315,1312,-3,10,1322,1543,5,1608,1548,-20,113,96,81,588,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Buffalo, NY","Atlanta, GA",600,554,-6,9,603,743,7,804,750,-14,124,116,100,712,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Boise, ID","Seattle, WA",1205,1201,-4,12,1213,1222,6,1237,1228,-9,92,87,69,399,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"San Francisco, CA","Atlanta, GA",1506,1504,-2,21,1525,2225,8,2248,2233,-15,282,269,240,2139,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"New York, NY","Chicago, IL",1905,1917,12,31,1948,2033,5,2030,2038,8,145,141,105,725,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Portland, OR","Philadelphia, PA",2156,2203,7,15,2218,552,14,555,606,11,299,303,274,2406,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Little Rock, AR","Charlotte, NC",719,719,0,9,728,1001,21,1025,1022,-3,126,123,93,640,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Kansas City, MO","Las Vegas, NV",935,943,8,11,954,1022,16,1030,1038,8,175,175,148,1139,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"San Jose, CA","Denver, CO",1830,1828,-2,10,1838,2138,6,2210,2144,-26,160,136,120,948,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Fort Myers, FL","Dallas/Fort Worth, TX",1535,1534,-1,11,1545,1659,19,1734,1718,-16,179,164,134,1017,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Washington, DC","Austin, TX",1313,1306,-7,20,1326,1523,6,1534,1529,-5,201,203,177,1297,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Dallas/Fort Worth, TX","Harlingen/San Benito, TX",1250,1245,-5,18,1303,1405,5,1426,1410,-16,96,85,62,461,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Albany, NY","Fort Lauderdale, FL",700,651,-9,11,702,952,9,1016,1001,-15,196,190,170,1204,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"New York, NY","Atlanta, GA",715,721,6,21,742,935,6,935,941,6,140,140,113,762,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Raleigh/Durham, NC","Newark, NJ",1938,1955,17,10,2005,2105,10,2116,2115,-1,98,80,60,416,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Las Vegas, NV","El Paso, TX",1525,1524,-1,19,1543,1807,3,1805,1810,5,100,106,84,583,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Washington, DC","Boston, MA",1015,1009,-6,27,1036,1136,8,1154,1144,-10,99,95,60,399,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Dallas/Fort Worth, TX","Fort Lauderdale, FL",728,958,150,18,1016,1344,8,1125,1352,147,177,174,148,1119,147,0,0,0,0,2
+31/8/2023,Alaska Airlines Inc.,"Denver, CO","Seattle, WA",1750,1742,-8,26,1808,1922,6,1949,1928,-21,179,166,134,1024,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Boston, MA","Atlanta, GA",600,559,-1,15,614,838,14,850,852,2,170,173,144,946,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Charlotte, NC","Chicago, IL",1727,1726,-1,16,1742,1812,22,1850,1834,-16,143,128,90,599,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Atlanta, GA","Fort Lauderdale, FL",520,519,-1,12,531,656,19,713,715,2,113,116,85,581,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"Atlanta, GA","Knoxville, TN",1840,1835,-5,18,1853,1925,6,1939,1931,-8,59,56,32,152,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Kalispell, MT","Dallas/Fort Worth, TX",1332,1241,1389,17,1258,1654,12,1804,1706,1382,212,205,176,1390,0,0,0,0,1382,2
+31/8/2023,Southwest Airlines Co.,"Denver, CO","Sacramento, CA",1530,1542,12,20,1602,1707,4,1655,1711,16,145,149,125,909,12,0,4,0,0,1
+31/8/2023,PSA Airlines Inc.,"Washington, DC","Buffalo, NY",1024,1027,3,81,1148,1236,5,1201,1241,40,97,134,48,296,3,0,37,0,0,1
+31/8/2023,United Air Lines Inc.,"Los Angeles, CA","Chicago, IL",2332,2325,-7,15,2340,507,8,538,515,-23,246,230,207,1744,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","Boston, MA",2225,2336,71,10,2346,42,7,2350,49,59,85,73,56,369,0,0,0,0,59,1
+31/8/2023,JetBlue Airways,"Boston, MA","Cleveland, OH",1505,1453,-12,10,1503,1632,9,1705,1641,-24,120,108,89,563,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Houston, TX","Newark, NJ",1645,1647,2,22,1709,2050,11,2130,2101,-29,225,194,161,1400,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"Salt Lake City, UT","Orlando, FL",600,607,7,13,620,1216,8,1220,1224,4,260,257,236,1931,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Evansville, IN","Dallas/Fort Worth, TX",1601,1604,3,11,1615,1747,17,1810,1804,-6,129,120,92,642,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Bozeman, MT","Salt Lake City, UT",1859,1850,-9,14,1904,2005,7,2015,2012,-3,76,82,61,347,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Juneau, AK","Seattle, WA",1255,1342,47,12,1354,1643,9,1618,1652,34,143,130,109,909,0,0,0,0,34,1
+31/8/2023,Southwest Airlines Co.,"Las Vegas, NV","Tucson, AZ",915,910,-5,21,931,1025,4,1035,1029,-6,80,79,54,365,0,0,0,0,0,0
+31/8/2023,Republic Airline,"New York, NY","Greensboro/High Point, NC",1610,1603,-7,30,1633,1747,7,1805,1754,-11,115,111,74,461,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"St. Louis, MO","Kansas City, MO",830,824,-6,14,838,919,4,930,923,-7,60,59,41,237,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Raleigh/Durham, NC","Baltimore, MD",1325,1400,35,10,1410,1455,4,1430,1459,29,65,59,45,255,23,0,0,0,6,1
+31/8/2023,SkyWest Airlines Inc.,"Chicago, IL","Lincoln, NE",1245,1240,-5,19,1259,1409,5,1428,1414,-14,103,94,70,466,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Austin, TX",1250,1245,-5,19,1304,1339,22,1406,1401,-5,76,76,35,190,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Santa Ana, CA","Houston, TX",1203,1154,-9,8,1202,1649,5,1724,1654,-30,201,180,167,1346,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Birmingham, AL","Dallas/Fort Worth, TX",640,636,-4,12,648,814,12,856,826,-30,136,110,86,597,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Los Angeles, CA","Tucson, AZ",1924,1930,6,19,1949,2109,3,2058,2112,14,94,102,80,451,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Austin, TX","Chicago, IL",805,758,-7,13,811,1021,21,1045,1042,-3,160,164,130,977,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Fresno, CA","San Francisco, CA",1612,1603,-9,24,1627,1709,9,1715,1718,3,63,75,42,158,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","Sarasota/Bradenton, FL",845,849,4,19,908,1115,3,1115,1118,3,150,149,127,880,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Shreveport, LA","Charlotte, NC",1355,1349,-6,14,1403,1641,18,1714,1659,-15,139,130,98,764,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Dallas/Fort Worth, TX","Columbia, MO",1559,1558,-1,15,1613,1726,4,1738,1730,-8,99,92,73,490,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Chicago, IL","Indianapolis, IN",1035,1033,-2,24,1057,1231,4,1243,1235,-8,68,62,34,177,0,0,0,0,0,0
+31/8/2023,PSA Airlines Inc.,"Memphis, TN","Philadelphia, PA",1042,1040,-2,17,1057,1350,10,1410,1400,-10,148,140,113,875,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Phoenix, AZ","Indianapolis, IN",1538,1531,-7,15,1546,2147,3,2208,2150,-18,210,199,181,1488,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Charleston, SC","Houston, TX",1706,1656,-10,9,1705,1816,21,1840,1837,-3,154,161,131,925,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Denver, CO",1012,1013,1,20,1033,1102,9,1127,1111,-16,135,118,89,641,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"South Bend, IN","Dallas/Fort Worth, TX",735,726,-9,14,740,830,13,913,843,-30,158,137,110,846,0,0,0,0,0,0
+31/8/2023,Republic Airline,"Washington, DC","Louisville, KY",1953,1947,-6,38,2025,2135,9,2150,2144,-6,117,117,70,474,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Fort Lauderdale, FL",850,849,-1,11,900,1026,5,1045,1031,-14,115,102,86,581,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","West Palm Beach/Palm Beach, FL",1948,1954,6,17,2011,2328,6,2340,2334,-6,172,160,137,1102,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Nashville, TN",1538,1744,126,15,1759,1736,6,1550,1742,112,72,58,37,214,112,0,0,0,0,2
+31/8/2023,Delta Air Lines Inc.,"Minneapolis, MN","Orlando, FL",1950,2022,32,20,2042,22,8,6,30,24,196,188,160,1310,0,0,0,0,24,1
+31/8/2023,American Airlines Inc.,"Grand Rapids, MI","Dallas/Fort Worth, TX",1909,1859,-10,13,1912,2010,11,2050,2021,-29,161,142,118,931,0,0,0,0,0,0
+31/8/2023,Allegiant Air,"Laredo, TX","Las Vegas, NV",2224,2313,49,14,2327,2354,12,2310,6,56,166,173,147,1092,32,0,7,0,17,1
+31/8/2023,Envoy Air,"Santa Rosa, CA","Phoenix, AZ",1231,1228,-3,15,1243,1422,10,1445,1432,-13,134,124,99,699,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Honolulu, HI",937,939,2,11,950,1216,5,1239,1221,-18,482,462,446,3784,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"New York, NY","Atlanta, GA",935,940,5,18,958,1149,8,1204,1157,-7,149,137,111,760,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Chicago, IL","Austin, TX",1740,1737,-3,24,1801,2007,3,2010,2010,0,150,153,126,972,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Los Angeles, CA","Las Vegas, NV",1230,1239,9,24,1303,1347,5,1340,1352,12,70,73,44,236,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Huntsville, AL","Atlanta, GA",1445,1442,-3,10,1452,1620,5,1648,1625,-23,63,43,28,151,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","Indianapolis, IN",1110,1110,0,11,1121,1245,3,1255,1248,-7,105,98,84,516,0,0,0,0,0,0
+31/8/2023,American Airlines Inc.,"San Juan, PR","Charlotte, NC",810,803,-7,14,817,1139,8,1200,1147,-13,230,224,202,1475,0,0,0,0,0,0
+31/8/2023,Endeavor Air Inc.,"New York, NY","Syracuse, NY",1050,1048,-2,18,1106,1150,6,1214,1156,-18,84,68,44,198,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Nashville, TN","Myrtle Beach, SC",1740,1736,-4,17,1753,1955,3,2005,1958,-7,85,82,62,471,0,0,0,0,0,0
+31/8/2023,Spirit Air Lines,"San Juan, PR","Orlando, FL",2115,2256,101,13,2309,138,9,23,147,84,188,171,149,1189,0,0,84,0,0,2
+31/8/2023,PSA Airlines Inc.,"Charlotte, NC","Gulfport/Biloxi, MS",1126,1123,-3,33,1156,1221,2,1223,1223,0,117,120,85,577,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Boston, MA","San Diego, CA",1825,1817,-8,22,1839,2111,19,2140,2130,-10,375,373,332,2588,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Boston, MA","Chicago, IL",1158,1154,-4,12,1206,1312,14,1345,1326,-19,167,152,126,867,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"St. Louis, MO","Atlanta, GA",1635,1641,6,15,1656,1901,9,1910,1910,0,95,89,65,484,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Austin, TX","Denver, CO",2020,2056,36,14,2110,2154,8,2135,2202,27,135,126,104,775,4,0,0,0,23,1
+31/8/2023,SkyWest Airlines Inc.,"Dallas/Fort Worth, TX","Albuquerque, NM",1650,1644,-6,25,1709,1733,4,1748,1737,-11,118,113,84,569,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","Columbus, OH",1445,1444,-1,21,1505,1558,3,1605,1601,-4,80,77,53,337,0,0,0,0,0,0
+31/8/2023,Envoy Air,"Indianapolis, IN","Chicago, IL",1559,1555,-4,20,1615,1557,7,1615,1604,-11,76,69,42,177,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"San Francisco, CA","Las Vegas, NV",1924,2031,67,27,2058,2204,11,2103,2215,72,99,104,66,414,0,0,72,0,0,2
+31/8/2023,Delta Air Lines Inc.,"Portland, ME","Detroit, MI",1700,1657,-3,12,1709,1847,7,1905,1854,-11,125,117,98,668,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"New York, NY","Miami, FL",1130,1129,-1,55,1224,1502,13,1437,1515,38,187,226,158,1089,0,0,38,0,0,1
+31/8/2023,American Airlines Inc.,"Miami, FL","Washington, DC",1345,1348,3,38,1426,1630,3,1626,1633,7,161,165,124,919,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Kona, HI","San Francisco, CA",1305,1335,30,13,1348,2126,4,2101,2130,29,296,295,278,2367,29,0,0,0,0,1
+31/8/2023,Southwest Airlines Co.,"Memphis, TN","Dallas, TX",1550,1555,5,13,1608,1707,5,1710,1712,2,80,77,59,423,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","Tampa, FL",615,611,-4,22,633,836,3,830,839,9,135,148,123,842,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Chicago, IL","Fargo, ND",1955,1955,0,46,2041,2207,6,2155,2213,18,120,138,86,557,18,0,0,0,0,1
+31/8/2023,Allegiant Air,"Pasco/Kennewick/Richland, WA","Phoenix, AZ",2035,2035,0,15,2050,2311,12,2302,2323,21,147,168,141,977,0,0,21,0,0,1
+31/8/2023,Spirit Air Lines,"Chicago, IL","Miami, FL",1316,1312,-4,12,1324,1742,7,1725,1749,24,189,217,198,1197,0,0,24,0,0,1
+31/8/2023,United Air Lines Inc.,"Seattle, WA","San Francisco, CA",1312,1305,-7,12,1317,1500,9,1524,1509,-15,132,124,103,679,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Kansas City, MO","New York, NY",936,935,-1,15,950,1311,15,1329,1326,-3,173,171,141,1113,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Pittsburgh, PA","Chicago, IL",715,717,2,14,731,733,2,745,735,-10,90,78,62,402,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Salt Lake City, UT","Detroit, MI",1800,1753,-7,17,1810,2301,10,2331,2311,-20,211,198,171,1481,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Charleston, SC","Seattle, WA",1635,1627,-8,18,1645,1858,6,1922,1904,-18,347,337,313,2415,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Denver, CO","Sacramento, CA",840,909,29,14,923,1027,3,1005,1030,25,145,141,124,909,25,0,0,0,0,1
+31/8/2023,Alaska Airlines Inc.,"Seattle, WA","Ontario, CA",2130,2229,59,27,2256,111,6,2359,117,78,149,168,135,956,59,0,19,0,0,2
+31/8/2023,Allegiant Air,"Sarasota/Bradenton, FL","Washington, DC",1100,1206,66,11,1217,1400,4,1326,1404,38,146,118,103,849,38,0,0,0,0,1
+31/8/2023,Delta Air Lines Inc.,"Atlanta, GA","Memphis, TN",1621,1618,-3,10,1628,1619,3,1640,1622,-18,79,64,51,332,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Minneapolis, MN","Aberdeen, SD",2125,2120,-5,19,2139,2225,5,2225,2230,5,60,70,46,257,0,0,0,0,0,0
+31/8/2023,Hawaiian Airlines Inc.,"Lihue, HI","Honolulu, HI",1935,1927,-8,7,1934,2001,9,2011,2010,-1,36,43,27,102,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Orlando, FL","Denver, CO",950,947,-3,14,1001,1117,6,1135,1123,-12,225,216,196,1546,0,0,0,0,0,0
+31/8/2023,Delta Air Lines Inc.,"Miami, FL","Raleigh/Durham, NC",2025,2025,0,43,2108,2248,11,2237,2259,22,132,154,100,700,0,0,22,0,0,1
+31/8/2023,United Air Lines Inc.,"Omaha, NE","San Francisco, CA",600,558,-2,13,611,728,3,735,731,-4,215,213,197,1433,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","San Juan, PR",835,837,2,21,858,1248,3,1245,1251,6,250,254,230,1565,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Fayetteville, AR","Chicago, IL",1350,1340,-10,14,1354,1514,10,1548,1524,-24,118,104,80,522,0,0,0,0,0,0
+31/8/2023,Republic Airline,"New York, NY","Pittsburgh, PA",1426,1419,-7,21,1440,1537,3,1612,1540,-32,106,81,57,335,0,0,0,0,0,0
+31/8/2023,Alaska Airlines Inc.,"Boston, MA","San Francisco, CA",700,740,40,17,757,1056,6,1036,1102,26,396,382,359,2704,0,0,0,0,26,1
+31/8/2023,Endeavor Air Inc.,"Montgomery, AL","Atlanta, GA",1835,1936,61,27,2003,2131,16,2052,2147,55,77,71,28,147,0,0,0,0,55,1
+31/8/2023,United Air Lines Inc.,"San Jose, CA","Denver, CO",1559,1602,3,14,1616,1919,6,1939,1925,-14,160,143,123,948,0,0,0,0,0,0
+31/8/2023,SkyWest Airlines Inc.,"Chicago, IL","Aspen, CO",1945,1947,2,18,2005,2121,3,2138,2124,-14,173,157,136,1013,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Denver, CO","Austin, TX",655,706,11,14,720,956,4,1000,1000,0,125,114,96,775,0,0,0,0,0,0
+31/8/2023,United Air Lines Inc.,"Anchorage, AK","Chicago, IL",2056,2102,6,16,2118,534,9,607,543,-24,371,341,316,2846,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"New York, NY","San Juan, PR",939,938,-1,18,956,1309,4,1340,1313,-27,241,215,193,1598,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Atlanta, GA","Fort Myers, FL",2150,2143,-7,11,2154,2315,5,2325,2320,-5,95,97,81,515,0,0,0,0,0,0
+31/8/2023,Southwest Airlines Co.,"Baltimore, MD","West Palm Beach/Palm Beach, FL",1900,1936,36,11,1947,2147,5,2130,2152,22,150,136,120,883,22,0,0,0,0,1
+31/8/2023,Delta Air Lines Inc.,"Seattle, WA","Sacramento, CA",1740,1750,10,13,1803,1930,7,1927,1937,10,107,107,87,605,0,0,0,0,0,0
+31/8/2023,JetBlue Airways,"Orlando, FL","Aguadilla, PR",501,451,-10,15,506,732,4,744,736,-8,163,165,146,1129,0,0,0,0,0,0
